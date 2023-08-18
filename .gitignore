@@ -1,1 +1,4 @@
 /storage/*.xlsx
+/storage/*.csv
+*.xlsx
+/fuzzy_string_matching/*.csv
